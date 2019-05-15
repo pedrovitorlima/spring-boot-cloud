@@ -1,0 +1,3 @@
+
+spring.application.name=sum
+server.port=8081

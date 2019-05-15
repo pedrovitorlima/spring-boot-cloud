@@ -1,0 +1,5 @@
+package org.pedro.spring.cloud.math.sum;
+
+public class LimitsConfigurationController {
+
+}

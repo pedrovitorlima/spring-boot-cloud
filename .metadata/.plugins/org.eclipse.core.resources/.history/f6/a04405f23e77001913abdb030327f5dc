@@ -1,0 +1,5 @@
+package org.pedro.spring.cloud.math.domain;
+
+public class LimitsConfigutarionProperties {
+
+}

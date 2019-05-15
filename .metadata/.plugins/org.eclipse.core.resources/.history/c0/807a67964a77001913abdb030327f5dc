@@ -1,0 +1,2 @@
+number-limits-config.minimum=1000
+limits-service.minimum=10000

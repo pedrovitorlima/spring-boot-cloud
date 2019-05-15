@@ -1,0 +1,12 @@
+package org.pedro.spring.cloud.math.sum;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class LimitsConfigurationController {
+
+	@GetMappint("/limits")
+	public LimitsConfiguration retrieveLimitsConfiguration() {
+		
+	}
+}
